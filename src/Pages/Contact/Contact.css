@@ -1,0 +1,17 @@
+.heading {
+  text-align: center;
+  font-size: 54px;
+}
+.Contact-us {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  height: 70vh;
+}
+.Contact-us a {
+  margin-top: 10rem;
+  font-size: 24px;
+}
